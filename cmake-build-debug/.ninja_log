@@ -1,0 +1,4 @@
+# ninja log v5
+11	216	7171635034927318	CMakeFiles/Static_Heap_Memory.dir/main.c.obj	948b7b34a6ffb368
+0	251	7171635035327270	CMakeFiles/Static_Heap_Memory.dir/static_heap.c.obj	9ddfa64fdf2e2eee
+252	473	7171635037494194	Static_Heap_Memory.exe	4dfb6b9ab6e35b90

@@ -1,0 +1,3 @@
+C:/Users/peter/OneDrive/Desktop/Github/Static-Heap-Memory/cmake-build-debug/CMakeFiles/Static_Heap_Memory.dir
+C:/Users/peter/OneDrive/Desktop/Github/Static-Heap-Memory/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/peter/OneDrive/Desktop/Github/Static-Heap-Memory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
